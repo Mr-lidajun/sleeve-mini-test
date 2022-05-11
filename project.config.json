@@ -40,7 +40,7 @@
     "minifyWXSS": true
   },
   "compileType": "miniprogram",
-  "libVersion": "2.7.0",
+  "libVersion": "2.24.1",
   "appid": "wx682bfebe14409920",
   "projectname": "island-mini-test",
   "debugOptions": {

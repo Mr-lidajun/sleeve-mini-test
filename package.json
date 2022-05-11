@@ -9,6 +9,7 @@
   "author": "7七月",
   "license": "ISC",
   "dependencies": {
-    "lin-ui": "^0.7.0"
+    "js-base64": "^2.6.4",
+    "lin-ui": "^0.7.6"
   }
 }
